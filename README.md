@@ -1,4 +1,4 @@
-## Simple Messaging Application
+## Simple Chat Application
 
 ### Running the App
 
