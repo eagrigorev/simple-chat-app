@@ -1,4 +1,4 @@
-## Messaging App Prototype
+## Simple Messaging Application
 
 ### Running the App
 
